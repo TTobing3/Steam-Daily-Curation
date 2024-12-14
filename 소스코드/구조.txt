@@ -1,0 +1,24 @@
+폴더 PATH의 목록입니다.
+볼륨 일련 번호는 5C35-8DDA입니다.
+C:.
+│  App.js
+│  datas.js
+│  images.js
+│  theme.js
+│  구조.txt
+│  
+├─Contents
+│      gameGainContainer.js
+│      genreSelectContainer.js
+│      resultContainer.js
+│      
+├─DayBox
+│      dayBox.js
+│      dayBoxList.js
+│      gainPopup.js
+│      resultPopUp.js
+│      
+└─Screen
+        loginScreen.js
+        mainScreen.js
+        
