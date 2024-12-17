@@ -17,13 +17,11 @@ src:
 - gameGainContainer.js
 - genreSelectContainer.js
 - resultContainer.js      
-
 3. DayBox
 - dayBox.js
 - dayBoxList.js
 - gainPopup.js
 - resultPopUp.js      
-
 4. Screen
 - loginScreen.js
 - mainScreen.js
