@@ -13,16 +13,18 @@ src:
 -  mages.js
 -  theme.js
 -  
-- 1.Contents
+1 .Contents
 - gameGainContainer.js
 - genreSelectContainer.js
 - resultContainer.js      
--3. DayBox
+
+3. DayBox
 - dayBox.js
 - dayBoxList.js
 - gainPopup.js
 - resultPopUp.js      
--4. Screen
+
+4. Screen
 - loginScreen.js
 - mainScreen.js
 
