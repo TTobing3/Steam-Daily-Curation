@@ -8,25 +8,23 @@
 ## 구조
 
 src:
-\│  App.js
-\│  datas.js
-\│  images.js
-\│  theme.js
-\│  
-\├─Contents
-\│      gameGainContainer.js
-\│      genreSelectContainer.js
-\│      resultContainer.js
-\│      
-\├─DayBox
-\│      dayBox.js
-\│      dayBoxList.js
-\│      gainPopup.js
-\│      resultPopUp.js
-\│      
-\└─Screen
-        loginScreen.js
-        mainScreen.js
+-  App.js
+-  datas.js
+-  mages.js
+-  theme.js
+-  
+- 1.Contents
+- gameGainContainer.js
+- genreSelectContainer.js
+- resultContainer.js      
+-3. DayBox
+- dayBox.js
+- dayBoxList.js
+- gainPopup.js
+- resultPopUp.js      
+-4. Screen
+- loginScreen.js
+- mainScreen.js
 
 ## 기능
 
